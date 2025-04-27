@@ -1,4 +1,5 @@
-## Aplicación CINE CRUD con Node Express
+## Aplicación CINE CRUD
+ con Node Express
 
 Una vez clonado el repositorio, ejecute:
 
